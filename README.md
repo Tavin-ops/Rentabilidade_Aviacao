@@ -36,3 +36,7 @@ O projeto foi estruturado em um fluxo de dados integrado de 3 etapas:
 * Carro-chefe de Lucratividade (Learjet): O modelo Learjet destaca-se como a aeronave de maior retorno financeiro, concentrando a maior fatia da receita (R$ 56 mil) e gerando R$ 30,3 mil em lucro líquido.
 * Estrutura de Custos Concentrada: O Combustível é o principal cost driver da operação, representando 76,6% do custo total (R$ 31 mil) contra 23,4% de manutenção. Recomendam-se estratégias de hedge cambial, contratos de abastecimento em volume e análise de eficiência energética de rotas.
 * Desempenho Operacional do Helicóptero: O Helicóptero Esquilo apresentou o menor volume absoluto de receita e lucro, indicando a necessidade de reavaliar a precificação por hora de voo ou focar em rotas/fretamentos de maior margem.
+
+
+A Inteligência Artificial (Gemini) foi usada para gerar os dados brutos fictícios tratados no Python, para auxiliar na elaboração do dashboard e para revisar o texto final publicado. 
+Todo o restante: programar no Python para tratar os dados, criar o dashboard no Power Bi, análise dos resultados, escrever e revisar o resultado final do texto foi feito exclusivamente por humanos (eu).
